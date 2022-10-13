@@ -43,5 +43,5 @@ cmds.playbackOptions(ps=0, by=1, mps=0, v='Active')
 
 
 ## command references
-* [currentUnit](https://help.autodesk.com/cloudhelp/2019/ENU/Maya-Tech-Docs/CommandsPython/currentUnit.html)
-* [playbackOptions](https://help.autodesk.com/cloudhelp/2016/JPN/Maya-Tech-Docs/CommandsPython/playbackOptions.html)
+* [currentUnit](https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Tech-Docs/CommandsPython/currentUnit.html)
+* [playbackOptions](https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Tech-Docs/CommandsPython/playbackOptions.html)

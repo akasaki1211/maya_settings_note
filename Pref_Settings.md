@@ -15,4 +15,4 @@ cmds.currentUnit(l='cm', a='deg')
 ```
 
 ## command references
-* [currentUnit](https://help.autodesk.com/cloudhelp/2019/ENU/Maya-Tech-Docs/CommandsPython/currentUnit.html)
+* [currentUnit](https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Tech-Docs/CommandsPython/currentUnit.html)
