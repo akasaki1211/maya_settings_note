@@ -9,6 +9,8 @@ Or `maya.api.OpenMaya.MSceneMessage.addCallback()` to set it to apply settings a
 
 * Preference
   * [Settings](./Pref_Settings.md)
+    * [Color Management](./Pref_Settings_ColorManagement.md)
+    * [Rendering](./Pref_Settings_Rendering.md)
     * [Time Slider](./Pref_Settings_TimeSlider.md)
 * [Plug-in Manager](./PluginManager.md)
 
