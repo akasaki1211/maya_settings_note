@@ -2,8 +2,7 @@
 
 *) *It's regularly updated.*
 
-How to change settings by environment variables or Python commands.  
-For apply settings automatically with `Maya startup batfile`, `usersetup.py`, `maya.api.OpenMaya.MSceneMessage.addCallback()`, etc.  
+How to change settings by environment variables or Python commands. For apply settings automatically with `Maya startup batfile`, `usersetup.py`, `maya.api.OpenMaya.MSceneMessage.addCallback()`, etc.  
 
 * Preference
   * [Settings](./Pref_Settings.md)
