@@ -17,7 +17,7 @@ cmds.colorManagementPrefs(e=True, cfp='********.ocio')
 ```
 
 #### Environment variables
-```batfile
+```batchfile
 :: OCIO Config Path
 set OCIO=********.ocio
 ```
