@@ -9,7 +9,7 @@ sys.path.append('path')
 ```
 
 #### Environment variables
-```batfile
+```batchfile
 set PYTHONPATH="path"
 ```
 
