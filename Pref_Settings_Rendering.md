@@ -3,11 +3,13 @@
 ![Rendering](./images/Pref_Settings_Rendering.png)
 
 ### Rendering
+#### Python commands
 ```python
 # Preferred Renderer
 cmds.preferredRenderer('arnold')
 ```
 
+#### Environment variables
 ```batchfile
 :: Preffered Render Setup System
 set MAYA_ENABLE_LEGACY_RENDER_LAYERS=1
