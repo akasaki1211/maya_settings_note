@@ -11,6 +11,7 @@ How to change settings by environment variables or Python commands. For apply se
     * [Time Slider](./Pref_Settings_TimeSlider.md)
 * [Plug-in Manager](./PluginManager.md)
 * [Viewpanel](./Viewpanel.md)
+* [Evaluation](./Evaluation.md)
 * [Python](./Python.md)
 
 > **Note**  
