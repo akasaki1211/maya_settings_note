@@ -18,6 +18,12 @@ if mPanels:
         cmds.modelEditor(mPanel, e=True, da='smoothShaded', dtx=True)
 
         # Lighting
+        #  Use Default Lighting
+        cmds.modelEditor(mPanel, e=True, dl='default')
+        #  Use All Lights (same as 7 key)
+        cmds.modelEditor(mPanel, e=True, dl='all')
+        #  Shadows
+        cmds.modelEditor(mPanel, e=True, sdw=True)
 
         # Show
         #  None

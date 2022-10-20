@@ -4,9 +4,7 @@
 
 ### 01) Modes
 ```python
-import maya.cmds as cmds
-import maya.mel as mel
-import maya.utils
+from maya import cmds, mel, utils
 
 # Evaluation Mode
 cmds.evaluationManager(mode='parallel')
@@ -23,10 +21,10 @@ mel.eval('turnOnOpenCLEvaluatorActive')
 #  Off
 mel.eval('turnOffOpenCLEvaluatorActive')
 
-#  *If execute in usersetup.py
+#  *To execute in usersetup.py, use maya.utils.executeDeferred().
 def turnOff_GPUOverride(*args):
-	mel.eval('turnOffOpenCLEvaluatorActive')
-maya.utils.executeDeferred(turnOff_GPUOverride)
+    mel.eval('turnOffOpenCLEvaluatorActive')
+utils.executeDeferred(turnOff_GPUOverride)
 ```
 
 ## command references
