@@ -14,6 +14,7 @@ How to change settings by environment variables or Python commands. For apply se
 * [Viewport 2.0 Settings](./Viewport_2.0_Settings.md)
 * [Evaluation](./Evaluation.md)
 * [Python](./Python.md)
+* [Others](./Others.md)
 
 > **Note**  
 > Confirmed with Maya 2023  
